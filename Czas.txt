@@ -1,0 +1,6 @@
+Quick sort - Czas
+Maly zbior liczb (100):
+0.000236s
+
+Duzy zbior liczb (100000):
+ok. 1.2608s
